@@ -14,6 +14,7 @@ namespace JumpLib
             
             // 근의 공식 사용 : b = 0 이므로, 루트(-4 x a x c) / 2 x a
             var xii = Math.Sqrt(4 * (1 / distance) * height) / (2 * (1 / distance));
+            // 반올림 하여 소숫점 2째 자리까지 제한
             xi = Math.Round(xii, 2);
         }
 
