@@ -1,4 +1,4 @@
-원리 설명 - 그림이 오류로 인해 이상하니 다운이나 새탭을 열어서 보시길 
+원리 설명
 
 ![System](/JumpLib/JumpLibSystem.png)
 
